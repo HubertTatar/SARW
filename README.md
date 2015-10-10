@@ -1,5 +1,10 @@
 # SARW
-https://www.youtube.com/watch?v=LXEhQPEupX8
-https://www.youtube.com/watch?v=XPuOlpWEvmw
-https://github.com/ArchDev/akka-http-rest
-http://boldradius.com/blog-post/VAXI9i4AADMA4lXn/using-http-header-to-version-a-restful-api-in-spray
+1. https://www.youtube.com/watch?v=LXEhQPEupX8
+2. https://www.youtube.com/watch?v=XPuOlpWEvmw
+3. https://github.com/ArchDev/akka-http-rest
+4. http://boldradius.com/blog-post/VAXI9i4AADMA4lXn/using-http-header-to-version-a-restful-api-in-spray
+5. http://allegro.tech/2015/01/Content-headers-or-how-to-version-api.html
+6. http://www.smartjava.org/content/first-steps-rest-spray-and-scala
+7. https://github.com/dnvriend/akka-http-test/blob/master/src/main/scala/com/github/dnvriend/Marshallers.scala
+8. http://spray.io/documentation/1.2.2/spray-routing/advanced-topics/custom-directives/
+9. http://stackoverflow.com/questions/17353947/how-to-throw-exception-from-custom-directive

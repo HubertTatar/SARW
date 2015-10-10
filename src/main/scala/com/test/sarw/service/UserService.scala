@@ -14,6 +14,10 @@ trait UserService {
     Seq(User(1, "John", "secret"))
   }
 
+  def getUsers(version: String): Future[Seq[User]] = Future {
+    Seq(User(1, "John", "secret"))
+  }
+
   def getUserById(id: Int): Future[User] = Future {
     User(1, "John", "secret")
   }

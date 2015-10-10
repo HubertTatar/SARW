@@ -1,6 +1,6 @@
 package com.test.sarw.http.route
 
-import akka.http.scaladsl.model.StatusCodes
+import akka.http.scaladsl.model.{HttpRequest, StatusCodes}
 import com.test.sarw.http.BaseServiceRoute
 import com.test.sarw.model.User
 import com.test.sarw.service.UserService
